@@ -1,0 +1,15 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "tine": "./cli.js"
+  },
+  "dependencies": {
+    "inquirer": "^6.4.1"
+  }
+}
